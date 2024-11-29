@@ -1,4 +1,4 @@
-# Autogen AI Agents
+# Autogen AI Agent
 
 An assignment that implement an AI agent using Autogen.
 
