@@ -2,7 +2,7 @@
 config_list =  [
     {
         'model': 'open-mistral-7b',
-        'api_key' : 'DjRT1jx5bN3yvDjmg4degkfJ02YT6Yge', #INSERT YOUR API KEY!!
+        'api_key' : '', #INSERT YOUR API KEY!!
         'api_type': 'mistral'
     }
 ]

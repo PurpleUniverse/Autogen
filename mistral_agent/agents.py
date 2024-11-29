@@ -17,7 +17,7 @@ assistant = autogen.AssistantAgent(
     llm_config=llm_config
 )
 
-#Setting up the User agent
+# Setting up the User agent
 user_proxy = autogen.UserProxyAgent(
     name="User",
     is_termination_msg=lambda msg: "FINISH" in msg.get("content"),
